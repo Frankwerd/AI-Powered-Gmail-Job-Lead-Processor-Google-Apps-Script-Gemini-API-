@@ -188,9 +188,7 @@ Please ensure your code is well-commented and, if you're adding new functionalit
 
 ## License
 
-This project is licensed under the **[NAME OF YOUR CHOSEN LICENSE - e.g., MIT License]**. See the `LICENSE` file for details.
-
-*(You'll need to create a LICENSE file, see below)*
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
 

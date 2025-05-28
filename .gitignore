@@ -1,0 +1,19 @@
+# Google Apps Script
+appsscript.json
+build/
+dist/
+node_modules/
+*.lock
+*.log
+
+# Secrets (though API key is in UserProperties, good habit)
+secrets.json
+.env
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+*.bak
+*~
+.idea/
+.vscode/

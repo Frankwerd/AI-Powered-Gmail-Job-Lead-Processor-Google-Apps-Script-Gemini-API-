@@ -1,4 +1,4 @@
-# Career Suite v3 **REVISED PROJECT NAME**
+# Career Suite v2.5 **REVISED PROJECT NAME**
 # AI-Powered Gmail Job Lead Processor (Google Apps Script & Gemini API)
 
 Tired of sifting through endless "job alert" emails? This Google Apps Script automates the processing of job notifications **you already receive** from your favorite job boards. It uses Google's Gemini AI to intelligently scan these emails, extract key information (Job Title, Company, Location, Link), and organizes it all neatly into a Google Spreadsheet.
